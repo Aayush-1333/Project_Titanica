@@ -20,8 +20,7 @@ Currently the path of this project is as follows:
 - Studying the dataset and performing data wrangling on it
 - Saving the transformed dataset as CSV file for model development phase
 - Considering classification models: Logistic Regression, Decision Tree Classifiers, SVM
-- Picking up the best model and saving it
-
-This project will undergo some updates once the required number of milestones have been reached.
+- Picking up the best model, creating a pipeline and saving it.
+- Creating a streamlit app and serving the model along with display of data insights.
 
 ---
