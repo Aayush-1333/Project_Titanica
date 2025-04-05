@@ -22,7 +22,7 @@ def rename_cols(X: pd.DataFrame) -> pd.DataFrame:
     return X
 
 
-clf_pipeline = joblib.load("./svc_pipeline.bz2")
+clf_pipeline = joblib.load("./pages/svc_pipeline.bz2")
 def predict(data: dict) -> int:
     # st.write(data)
     test_data = pd.DataFrame(data=data)

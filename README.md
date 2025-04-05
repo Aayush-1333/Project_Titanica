@@ -2,7 +2,7 @@
 
 ![titanic](https://pngimg.com/uploads/titanic/titanic_PNG34.png)
 
-You can view the app in production at [production-app](https://aayush-1333-project-titanica-streamlit-apphome-xfojx4.streamlit.app)
+You can view the app in production at [production-app](https://aayush-1333-project-titanica.streamlit.app)
 
 This project aims to initiate a study on the Titanic incident which led to tragedy of several people due to crash of the Titanic cruise ship.
 

@@ -4,7 +4,7 @@ import pandas as pd
 
 st.title("Insights Report")
 
-df = pd.read_csv("./train_cleaned.csv", index_col=0)
+df = pd.read_csv("./pages/train_cleaned.csv", index_col=0)
 st.dataframe(data=df)
 
 survived = df[df["Survived"] == 1]
